@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedasonia
+- 👋 Hi, I’m @sonia
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on development 
